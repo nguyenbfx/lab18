@@ -1,0 +1,44 @@
+/* .bg-img1
+{
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: url(/pexels-asad-photo-maldives-3293148.jpg);
+}
+
+.bg-img2
+{
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: url(/pexels-errin-casano-2356071.jpg);
+}
+.bg-img3
+{
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: url(/pexels-eva-larrosa-4284953.jpg);
+} */
+img{
+    display: block;
+    width: 100%;
+    max-height: 500px;
+    object-fit: cover;
+}
+
+ul li
+{
+    margin-left: 30px;
+}
+
+.carousel.slide
+{
+    margin-bottom: 200px;
+}
